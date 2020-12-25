@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811140461791",
+    "project_id": "elsayad-34b4b",
+    "storage_bucket": "elsayad-34b4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811140461791:android:8c901dcf8ab61518b9656a",
+        "android_client_info": {
+          "package_name": "com.dokkan.elsayad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811140461791-ico19not0psmkter5klf85g0sq7n5qoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN90Htn0k2-uenoA8Oq9aqb6QEOvBh54A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811140461791-ico19not0psmkter5klf85g0sq7n5qoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
